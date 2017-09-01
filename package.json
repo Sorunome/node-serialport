@@ -10,12 +10,12 @@
   "binary": {
     "module_name": "serialport",
     "module_path": "build/{configuration}/",
-    "host": "https://github.com/EmergingTechnologyAdvisors/node-serialport/releases/download/4.0.7"
+    "host": "https://files.sorunome.de/arduino-upload/serialport/4.0.7"
   },
   "main": "./lib/serialport",
   "repository": {
     "type": "git",
-    "url": "git://github.com/EmergingTechnologyAdvisors/node-serialport.git"
+    "url": "git://github.com/Sorunome/node-serialport.git"
   },
   "keywords": [
     "serialport",
